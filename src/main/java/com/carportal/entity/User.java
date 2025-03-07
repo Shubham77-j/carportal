@@ -1,7 +1,7 @@
 package com.carportal.entity;
 
 import jakarta.persistence.*;
-
+// Girlfrienfd nhi hai
 @Entity
 @Table(name = "user")
 public class User {
